@@ -3,5 +3,6 @@
 	"useTabs": true,
 	"printWidth": 120,
 	"semi": false,
-	"bracketSameLine": true
+	"bracketSameLine": true,
+	"singleQuote": false
 }
